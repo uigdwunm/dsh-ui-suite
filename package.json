@@ -1,0 +1,16 @@
+{
+  "name": "dsh-ui-suite",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A suite of DeepSeek Harness (DSH) Web UI plugins — process folding first, more to come.",
+  "type": "module",
+  "scripts": {
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

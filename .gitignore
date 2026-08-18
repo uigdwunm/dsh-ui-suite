@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output（DSH bundle 插件产物 lib/ 需入库，见 packages/*/README）
+dist/
+*.tsbuildinfo
+
+# test & coverage
+coverage/
+.vitest/
+
+# editor & os
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# env & secrets
+.env
+.env.*
