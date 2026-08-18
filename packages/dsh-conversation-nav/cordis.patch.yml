@@ -1,4 +1,0 @@
-# dsh-conversation-nav bundle: mount the conversation navigation UI plugin.
-- insert:
-    - id: dsh-conversation-nav
-      name: 'dsh-conversation-nav'
